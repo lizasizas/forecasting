@@ -1,6 +1,6 @@
 # Starbucks Stock Price Prediction (with EDA and Naive Forecasting)
 
-This repository contains code for exploring and predicting Starbucks stock prices using a publicly available dataset from Kaggle: [Starbucks Stock Price Dataset](https://www.kaggle.com/datasets/henryshan/starbucks-stock-price).
+This repository contains code for exploring and predicting Starbucks stock prices using a publicly available dataset from Kaggle: [Starbucks Stock Price Dataset](https://www.kaggle.com/datasets/mayankanand2701/starbucks-stock-price-dataset).
 
 ## Features:
 
