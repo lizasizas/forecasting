@@ -26,6 +26,6 @@ This repository contains code for exploring and predicting Starbucks stock price
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/starbucks-stock-price-prediction.git
+   git clone https://github.com/lizasizas/starbucks-stock-price-prediction.git
    cd starbucks-stock-price-prediction
 
