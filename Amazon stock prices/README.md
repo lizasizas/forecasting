@@ -31,6 +31,10 @@ The dataset used in this project is the historical stock prices of Amazon, which
 - scikit-learn
 - tensorflow
 
+You can install the dependencies using the following command:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+```
 ## Notebook Overview
 ### 1. Import Libraries
 The first section of the notebook imports the necessary libraries for data manipulation, visualization, and model building.
@@ -57,8 +61,4 @@ The notebook includes plots of the training and validation loss over epochs, as 
 This project demonstrates the use of a Simple RNN for time series forecasting of stock prices. While the model provides a basic introduction to RNNs, further improvements can be made by experimenting with more advanced architectures and hyperparameter tuning.
 
 Feel free to explore the notebook and modify the code to suit your needs. Happy forecasting!
-
-You can install the dependencies using the following command:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
