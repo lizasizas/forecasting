@@ -20,20 +20,19 @@ This repository contains a Jupyter Notebook that demonstrates how to use a Simpl
 Time series forecasting is a crucial task in finance and other domains where predicting future values is important. This project uses a Simple RNN to predict Amazon stock prices based on historical data.
 
 ## Dataset
-The dataset used in this project is the historical stock prices of Amazon, which can be obtained from various financial data sources. 
+The dataset used in this project is the historical stock prices of Amazon, which can be obtained from various financial data sources. The specific dataset used can be found [here](https://www.kaggle.com/datasets/beeru999/amazon-stock-prices1997-2021/data).
 
 ## Dependencies
 - Python 3.x
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
 - tensorflow
+- matplotlib
+- numpy
+- pandas
+- seaborn
 
 You can install the dependencies using the following command:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+pip install tensorflow matplotlib numpy pandas seaborn
 ```
 ## Notebook Overview
 ### 1. Import Libraries
