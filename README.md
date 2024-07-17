@@ -1,6 +1,6 @@
 # Forecasting Mini Project
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```sh
-   git clone https://github.com/lizasizas/starbucks-stock-price-prediction.git
+   git clone https://github.com/lizasizas/forecasting.git
 
